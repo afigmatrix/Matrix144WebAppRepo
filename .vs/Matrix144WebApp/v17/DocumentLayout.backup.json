@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Matrix\\P144\\Matrix144WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\migrations\\20250825160219_addeddescriptioncolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\migrations\\20250825160219_addeddescriptioncolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\migrations\\20250825155824_addedproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\migrations\\20250825155824_addedproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|d:\\matrix\\p144\\matrix144webapp\\matrix144webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8BAD2A-AFE6-4947-8FCD-1B66B83D558F}|Matrix144WebApp\\Matrix144WebApp.csproj|solutionrelative:matrix144webapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Matrix144WebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:09:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250825160219_addedDescriptionColumn.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Migrations\\20250825160219_addedDescriptionColumn.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\Migrations\\20250825160219_addedDescriptionColumn.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Migrations\\20250825160219_addedDescriptionColumn.cs",
+              "RelativeToolTip": "Matrix144WebApp\\Migrations\\20250825160219_addedDescriptionColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:02:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250825155824_addedProductTable.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Migrations\\20250825155824_addedProductTable.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\Migrations\\20250825155824_addedProductTable.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Migrations\\20250825155824_addedProductTable.cs",
+              "RelativeToolTip": "Matrix144WebApp\\Migrations\\20250825155824_addedProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:58:24.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\Entity\\Product.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Entity\\Product.cs",
+              "RelativeToolTip": "Matrix144WebApp\\Entity\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:48:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\Startup.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Startup.cs",
+              "RelativeToolTip": "Matrix144WebApp\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:46:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Matrix144WebApp\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:45:50.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Matrix144WebApp\\appsettings.json",
+              "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\appsettings.json",
+              "RelativeToolTip": "Matrix144WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T15:43:22.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
