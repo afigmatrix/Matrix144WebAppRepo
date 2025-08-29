@@ -49,6 +49,7 @@ namespace Matrix144WebApp.Controllers
             productEntity.Code = product.Code;
             productEntity.Description = product.Description;
             productEntity.IsActive = product.IsActive;
+
             _context.Products.Update(productEntity);
             await _context.SaveChangesAsync();
             return NoContent();

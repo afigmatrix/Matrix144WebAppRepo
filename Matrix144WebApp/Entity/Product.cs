@@ -3,9 +3,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Matrix144WebApp.Entity
 {
-    public class Product
+    public class Product :BaseEntity
     {
-        public int Id { get; set; }
 
         [MaxLength(30,ErrorMessage = "Max length is 30 symbol")]
         public string Name { get; set; }
