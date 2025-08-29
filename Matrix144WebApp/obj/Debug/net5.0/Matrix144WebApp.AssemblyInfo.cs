@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrix144WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b617b9b5505c284c99cfaa828eacad69b707c6c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96b3144d999c55505dc6102b606256223048c052")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrix144WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrix144WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

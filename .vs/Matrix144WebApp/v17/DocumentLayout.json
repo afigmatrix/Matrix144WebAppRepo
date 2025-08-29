@@ -83,8 +83,7 @@
               "RelativeToolTip": "Matrix144WebApp\\DTO\\UserRoleCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:52:54.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:52:54.071Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Controllers\\RolesController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwFMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:47:10.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:47:10.598Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:44:56.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:44:56.216Z"
             },
             {
               "$type": "Document",
@@ -120,7 +117,7 @@
               "RelativeDocumentMoniker": "Matrix144WebApp\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\Matrix\\P144\\Matrix144WebApp\\Matrix144WebApp\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Matrix144WebApp\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxsAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T16:42:05.405Z",
               "EditorCaption": ""
@@ -135,8 +132,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Migrations\\20250828163529_addedUserRoleRelation.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:35:30.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:35:30.506Z"
             },
             {
               "$type": "Document",
@@ -148,8 +144,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Entity\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:30:42.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:30:42.978Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Entity\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:27:56.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:27:56.48Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:27:33.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:27:33.69Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Entity\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:23:57.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:23:57.014Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:14:46.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:14:46.833Z"
             },
             {
               "$type": "Document",
@@ -213,8 +204,7 @@
               "RelativeToolTip": "..\\..\\P141\\Matrix141API\\Matrix1141EF\\Matrix1141EF\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-25T15:42:10.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T15:42:10.584Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "Matrix144WebApp\\Startup.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:38:25.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T15:38:25.436Z"
             },
             {
               "$type": "Document",
@@ -263,8 +252,7 @@
               "RelativeToolTip": "Matrix144WebApp\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:35:27.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T15:35:27.899Z"
             }
           ]
         }
